@@ -1,0 +1,6 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.speexam.common" >
+    <application>
+        <activity android:name="com.speexam.common.ActivityTest" android:theme="@style/Theme.AppCompat"/>
+    </application>
+</manifest>

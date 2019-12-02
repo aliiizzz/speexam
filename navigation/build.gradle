@@ -1,0 +1,9 @@
+apply plugin: 'com.android.library'
+
+apply from: '../common/common_module.gradle'
+
+dependencies {
+    //navigation
+    implementation "androidx.navigation:navigation-fragment-ktx:2.1.0"
+    implementation "androidx.navigation:navigation-ui-ktx:2.1.0"
+}
