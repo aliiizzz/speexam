@@ -1,2 +1,2 @@
-include ':app', ':common', ':navigation', ':login'
+include ':app', ':common', ':navigation', ':login', ':domain'
 rootProject.name='SpeakExam'
